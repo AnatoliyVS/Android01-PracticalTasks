@@ -77,20 +77,27 @@
         android:checked="true"
         android:text="@string/checkbox_3" />
 
-    <ToggleButton
-        android:id="@+id/toggleButton"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ToggleButton"
-        android:textOff="@string/toggle_button_text_off"
-        android:textOn="@string/toggle_button_text_on" />
+        android:gravity="right"
+        android:orientation="horizontal">
 
-    <ToggleButton
-        android:id="@+id/toggleButton2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:checked="true"
-        android:text="ToggleButton"
-        android:textOff="@string/toggle_button_text_off"
-        android:textOn="@string/toggle_button_text_on" />
+        <ToggleButton
+            android:id="@+id/toggleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ToggleButton"
+            android:textOff="@string/toggle_button_text_off"
+            android:textOn="@string/toggle_button_text_on" />
+
+        <ToggleButton
+            android:id="@+id/toggleButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:checked="true"
+            android:text="ToggleButton"
+            android:textOff="@string/toggle_button_text_off"
+            android:textOn="@string/toggle_button_text_on" />
+    </LinearLayout>
 </LinearLayout>
