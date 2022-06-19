@@ -28,7 +28,8 @@
         android:hint="@string/edit_text_hint"
         android:inputType="textPersonName"
         android:minHeight="48dp"
-        android:textColorHint="#01579B" />
+        android:textColorHint="#01579B"
+        android:importantForAutofill="no" />
 
     <Button
         android:id="@+id/button"
