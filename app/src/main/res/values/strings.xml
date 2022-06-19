@@ -10,4 +10,6 @@
     <string name="checkbox_1">Флажок 1</string>
     <string name="checkbox_2">Флажок 2</string>
     <string name="checkbox_3">Флажок 3</string>
+    <string name="toggle_button_text_off">выкл</string>
+    <string name="toggle_button_text_on">вкл</string>
 </resources>
