@@ -4,4 +4,7 @@
     <string name="edit_text_name">Имя</string>
     <string name="edit_text_hint">Введите имя</string>
     <string name="button">Кнопка</string>
+    <string name="switch_text_1">Переключатель 1</string>
+    <string name="switch_text_2">Переключатель 2</string>
+    <string name="switch_text_3">Переключатель 3</string>
 </resources>
