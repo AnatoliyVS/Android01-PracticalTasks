@@ -12,4 +12,6 @@
     <string name="checkbox_3">Флажок 3</string>
     <string name="toggle_button_text_off">выкл</string>
     <string name="toggle_button_text_on">вкл</string>
+    <string name="toggle_button_text_1">Кнопка переключения 1</string>
+    <string name="toggle_button_text_2">Кнопка переключения 2</string>
 </resources>
