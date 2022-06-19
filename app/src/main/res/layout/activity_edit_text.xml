@@ -26,4 +26,11 @@
         android:inputType="textPassword"
         android:minHeight="48dp"
         android:textColorHint="#757575" />
+
+    <EditText
+        android:id="@+id/editTextNumberPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberPassword" />
 </LinearLayout>
