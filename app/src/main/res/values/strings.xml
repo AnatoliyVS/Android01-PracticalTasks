@@ -16,4 +16,5 @@
     <string name="toggle_button_text_2">Кнопка переключения 2</string>
     <string name="text_name">Имя</string>
     <string name="hint_text_password">Введите пароль</string>
+    <string name="hint_number_password">Введите пароль с цифрами</string>
 </resources>
