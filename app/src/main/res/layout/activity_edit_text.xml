@@ -32,5 +32,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="numberPassword" />
+        android:hint="@string/hint_number_password"
+        android:importantForAutofill="no"
+        android:inputType="numberPassword"
+        android:minHeight="48dp"
+        android:textColorHint="#757575" />
 </LinearLayout>
