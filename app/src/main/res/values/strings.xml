@@ -17,4 +17,5 @@
     <string name="text_name">Имя</string>
     <string name="hint_text_password">Введите пароль</string>
     <string name="hint_number_password">Введите пароль с цифрами</string>
+    <string name="hint_text_email_address">Введите адрес электронной почты</string>
 </resources>
