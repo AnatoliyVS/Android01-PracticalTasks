@@ -80,11 +80,15 @@
         android:id="@+id/toggleButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ToggleButton" />
+        android:text="ToggleButton"
+        android:textOff="@string/toggle_button_text_off"
+        android:textOn="@string/toggle_button_text_on" />
 
     <ToggleButton
         android:id="@+id/toggleButton2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ToggleButton" />
+        android:text="ToggleButton"
+        android:textOff="@string/toggle_button_text_off"
+        android:textOn="@string/toggle_button_text_on" />
 </LinearLayout>
