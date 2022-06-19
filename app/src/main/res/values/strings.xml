@@ -2,4 +2,5 @@
     <string name="app_name">Android Application</string>
     <string name="text_message">Привет, ребята!</string>
     <string name="edit_text_name">Имя</string>
+    <string name="edit_text_hint">Введите имя</string>
 </resources>
