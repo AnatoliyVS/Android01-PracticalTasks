@@ -7,4 +7,7 @@
     <string name="switch_text_1">Переключатель 1</string>
     <string name="switch_text_2">Переключатель 2</string>
     <string name="switch_text_3">Переключатель 3</string>
+    <string name="checkbox_1">Флажок 1</string>
+    <string name="checkbox_2">Флажок 2</string>
+    <string name="checkbox_3">Флажок 3</string>
 </resources>
