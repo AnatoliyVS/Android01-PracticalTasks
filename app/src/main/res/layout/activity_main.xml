@@ -42,7 +42,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="48dp"
-        android:text="@string/switch_text_1" />
+        android:text="@string/switch_text_1"
+        tools:ignore="TextContrastCheck" />
 
     <androidx.appcompat.widget.SwitchCompat
         android:id="@+id/switch2"
@@ -57,7 +58,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="48dp"
-        android:text="@string/switch_text_3" />
+        android:text="@string/switch_text_3"
+        tools:ignore="TextContrastCheck" />
 
     <CheckBox
         android:id="@+id/checkBox2"
@@ -91,7 +93,8 @@
             android:layout_height="match_parent"
             android:text="@string/toggle_button_text_1"
             android:textOff="@string/toggle_button_text_off"
-            android:textOn="@string/toggle_button_text_on" />
+            android:textOn="@string/toggle_button_text_on"
+            tools:ignore="TextContrastCheck" />
 
         <ToggleButton
             android:id="@+id/toggleButton2"
