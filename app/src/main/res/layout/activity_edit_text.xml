@@ -68,7 +68,8 @@
         android:hint="@string/hint_text_postal_address"
         android:importantForAutofill="no"
         android:inputType="textPostalAddress"
-        android:minHeight="48dp" />
+        android:minHeight="48dp"
+        android:textColorHint="#757575" />
 
     <EditText
         android:id="@+id/editTextTextMultiLine"
@@ -76,5 +77,9 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:gravity="start|top"
-        android:inputType="textMultiLine" />
+        android:hint="@string/hint_text_multi_line"
+        android:importantForAutofill="no"
+        android:inputType="textMultiLine"
+        android:minHeight="48dp"
+        android:textColorHint="#757575" />
 </LinearLayout>
