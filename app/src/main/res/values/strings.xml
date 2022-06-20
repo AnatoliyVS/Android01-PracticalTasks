@@ -21,4 +21,5 @@
     <string name="hint_phone">+123(123) 123–45–67</string>
     <string name="hint_text_postal_address">Введите почтовый адрес</string>
     <string name="hint_text_multi_line">Введите многострочный текст</string>
+    <string name="hint_time">Введите время</string>
 </resources>
