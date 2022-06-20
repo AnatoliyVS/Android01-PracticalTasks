@@ -93,4 +93,15 @@
         android:inputType="time"
         android:minHeight="48dp"
         android:textColorHint="#757575" />
+
+    <EditText
+        android:id="@+id/editTextDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_data"
+        android:importantForAutofill="no"
+        android:inputType="date"
+        android:minHeight="48dp"
+        android:textColorHint="#757575" />
 </LinearLayout>
