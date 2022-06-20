@@ -23,4 +23,5 @@
     <string name="hint_text_multi_line">Введите многострочный текст</string>
     <string name="hint_time">Введите время</string>
     <string name="hint_data">Введите дату</string>
+    <string name="hint_number">Введите число</string>
 </resources>
