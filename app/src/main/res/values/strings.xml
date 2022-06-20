@@ -22,4 +22,5 @@
     <string name="hint_text_postal_address">Введите почтовый адрес</string>
     <string name="hint_text_multi_line">Введите многострочный текст</string>
     <string name="hint_time">Введите время</string>
+    <string name="hint_data">Введите дату</string>
 </resources>
