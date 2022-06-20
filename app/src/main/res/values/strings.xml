@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Android Application</string>
+    <string name="text_message">Привет, ребята!</string>
+    <string name="edit_text_name">Имя</string>
+    <string name="edit_text_hint">Введите имя</string>
+    <string name="button">Кнопка</string>
+    <string name="switch_text_1">Переключатель 1</string>
+    <string name="switch_text_2">Переключатель 2</string>
+    <string name="switch_text_3">Переключатель 3</string>
+    <string name="checkbox_1">Флажок 1</string>
+    <string name="checkbox_2">Флажок 2</string>
+    <string name="checkbox_3">Флажок 3</string>
+    <string name="toggle_button_text_off">выкл</string>
+    <string name="toggle_button_text_on">вкл</string>
+    <string name="toggle_button_text_1">Кнопка переключения 1</string>
+    <string name="toggle_button_text_2">Кнопка переключения 2</string>
+    <string name="text_name">Имя</string>
+    <string name="hint_text_password">Введите пароль</string>
+    <string name="hint_number_password">Введите пароль с цифрами</string>
+    <string name="hint_text_email_address">Введите адрес электронной почты</string>
+    <string name="hint_phone">+123(123) 123–45–67</string>
+    <string name="hint_text_postal_address">Введите почтовый адрес</string>
+    <string name="hint_text_multi_line">Введите многострочный текст</string>
+    <string name="hint_time">Введите время</string>
+    <string name="hint_data">Введите дату</string>
+    <string name="hint_number">Введите число</string>
 </resources>
